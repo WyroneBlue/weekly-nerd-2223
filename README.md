@@ -4,7 +4,7 @@ Tijdens de minor worden een aantal sessies georganiseerd om kennis te maken met 
 Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
 
 
-## Samenvattingen
+## Weekly Nerd Samenvattingen
 
 - [Susan Lau](./summaries/Week-1.md)
 - [Deanna Bosschert](./summaries/Week-2.md)
@@ -19,7 +19,7 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 
 
 
-## Weekly Nerd artikelen
+## Artikelen
 - [NXT Museam](./articles/NXT.md)
 - [Article 1](./articles/Article-1.md)
 - [Article 2](./articles/Article-2.md)
