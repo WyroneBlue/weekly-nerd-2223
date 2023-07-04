@@ -11,6 +11,7 @@ Ik moet zeggen dat ik een heel dubbel gevoel had bij het museum. Ik vond het hee
 ### De avatar
 De mascotte van het museum of de "Avatar" vond ik ook maar een apart geval. Ik snap ergens wel dat zij de diepte in willen gaan met de technologie en dat ze willen laten zien wat er allemaal mogelijk is. Maar ik vond het gewoon een beetje raar.
 <video src="../videos/avatar.mp4" controls title="De Avatar"></video>
+[Avatar video link](../videos/avatar.mp4)
 
 ## Favoriete Kunstwerken
 
@@ -19,6 +20,7 @@ De Foreign Nature was een van mijn favoriete kunstwerken. hij was heel trippy, m
 
 Wat ik wel jammer vond is dat hij niet interactief was. Dan was dit waarschijnlijk mijn favoriet geweest.
 <video src="../videos/relax-room.mp4" controls title="De Relax room"></video>
+[Foreign Nature link](../videos/relax-room.mp4)
 
 
 ### Enter
